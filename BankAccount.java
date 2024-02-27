@@ -1,10 +1,7 @@
 package banktransactionsystem;
-
 import java.util.Scanner;
 
-/*
- * @author Saad_Ahmed_Pathan_22114077
- */
+//password : 123456
 public class BankAccount {
 
     private String name;
@@ -25,7 +22,7 @@ public class BankAccount {
         System.out.println("\nEnter Your Password : ");
         password = sc.nextInt();
 
-        if (password == 763456) {
+        if (password == 123456) {
             Thread.sleep(2000);
             System.out.println("\n-------- Account Details ----------");
             
