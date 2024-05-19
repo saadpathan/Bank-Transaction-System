@@ -1,7 +1,7 @@
 # Bank-Transaction-System
 **Bank Transaction System**  A Java-based command-line application for secure and user-friendly banking transactions. Features password authentication, real-time balance updates, and error handling. Manage deposits and withdrawals seamlessly. Explore, modify, and contribute!
 
----
+----
 
 **Bank Transaction System**
 
@@ -23,4 +23,4 @@ This Java program represents a simple command-line Bank Transaction System. User
 
 Feel free to explore, modify, and contribute to the project. Feedback and suggestions are welcome!
 
----
+----
